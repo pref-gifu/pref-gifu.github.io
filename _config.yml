@@ -1,15 +1,15 @@
 safe: true
 source: .
-destination: ./_site
+destination: ../yoro.gh-pages
 lsi: false
 #pygments: true
 
 #auto: true
-title: NAME版 税金はどこへ行った？
+title: 養老郡養老町版 税金はどこへ行った？
 
-code: CODE
-name: NAME
-unit: UNIT
-year: YEAR
+code: 213411
+name: 養老郡養老町
+unit: 町
+year: 2011
 
 exclude: ['Gemfile*', 'README*', 'Rakefile', 'vendor']
