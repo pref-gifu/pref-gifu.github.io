@@ -1,15 +1,15 @@
 safe: true
 source: .
-destination: ./_site
+destination: ../kasamatsu.gh-pages
 lsi: false
 #pygments: true
 
 #auto: true
-title: NAME版 税金はどこへ行った？
+title: 羽島郡笠松町版 税金はどこへ行った？
 
-code: CODE
-name: NAME
-unit: UNIT
-year: YEAR
+code: 213039
+name: 羽島郡笠松町
+unit: 町
+year: 2011
 
 exclude: ['Gemfile*', 'README*', 'Rakefile', 'vendor']
