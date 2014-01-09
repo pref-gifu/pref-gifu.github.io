@@ -1,15 +1,15 @@
 safe: true
 source: .
-destination: ./_site
+destination: ../kitagata.gh-pages
 lsi: false
 #pygments: true
 
 #auto: true
-title: NAME版 税金はどこへ行った？
+title: 本巣郡北方町版 税金はどこへ行った？
 
-code: CODE
-name: NAME
-unit: UNIT
-year: YEAR
+code: 214213
+name: 本巣郡北方町
+unit: 町
+year: 2011
 
 exclude: ['Gemfile*', 'README*', 'Rakefile', 'vendor']
