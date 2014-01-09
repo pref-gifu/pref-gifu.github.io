@@ -1,15 +1,15 @@
 safe: true
 source: .
-destination: ./_site
+destination: ../tomika.gh-pages
 lsi: false
 #pygments: true
 
 #auto: true
-title: NAME版 税金はどこへ行った？
+title: 加茂郡富加町版 税金はどこへ行った？
 
-code: CODE
-name: NAME
-unit: UNIT
-year: YEAR
+code: 215023
+name: 加茂郡富加町
+unit: 町
+year: 2011
 
 exclude: ['Gemfile*', 'README*', 'Rakefile', 'vendor']
