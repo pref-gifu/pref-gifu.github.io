@@ -1,15 +1,15 @@
 safe: true
 source: .
-destination: ./_site
+destination: ../gifu.gh-pages
 lsi: false
 #pygments: true
 
 #auto: true
-title: NAME版 税金はどこへ行った？
+title: 岐阜市版 税金はどこへ行った？
 
-code: CODE
-name: NAME
-unit: UNIT
-year: YEAR
+code: 212016
+name: 岐阜市
+unit: 市
+year: 2011
 
 exclude: ['Gemfile*', 'README*', 'Rakefile', 'vendor']
