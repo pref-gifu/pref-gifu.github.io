@@ -1,15 +1,15 @@
 safe: true
 source: .
-destination: ./_site
+destination: ../shirakawamura.gh-pages
 lsi: false
 #pygments: true
 
 #auto: true
-title: NAME版 税金はどこへ行った？
+title: 大野郡白川村版 税金はどこへ行った？
 
-code: CODE
-name: NAME
-unit: UNIT
-year: YEAR
+code: 216046
+name: 大野郡白川村
+unit: 村
+year: 2011
 
 exclude: ['Gemfile*', 'README*', 'Rakefile', 'vendor']
