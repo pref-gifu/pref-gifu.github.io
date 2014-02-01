@@ -5,11 +5,12 @@ lsi: false
 #pygments: true
 
 #auto: true
-title: 加茂郡七宗町版 税金はどこへ行った？
-
-code: 215040
-name: 加茂郡七宗町
+lname: 岐阜県加茂郡七宗町
+title: 岐阜県加茂郡七宗町版 税金はどこへ行った？
+name: 七宗町
 unit: 町
-year: 2011
+code: 215040
+year: 2012
+jyear: 24
 
 exclude: ['Gemfile*', 'README*', 'Rakefile', 'vendor']
