@@ -5,11 +5,12 @@ lsi: false
 #pygments: true
 
 #auto: true
-title: 恵那市版 税金はどこへ行った？
-
-code: 212105
+lname: 岐阜県恵那市
+title: 岐阜県恵那市版 税金はどこへ行った？
 name: 恵那市
 unit: 市
-year: 2011
+code: 212105
+year: 2012
+jyear: 24
 
 exclude: ['Gemfile*', 'README*', 'Rakefile', 'vendor']
