@@ -5,11 +5,12 @@ lsi: false
 #pygments: true
 
 #auto: true
-title: 加茂郡八百津町版 税金はどこへ行った？
-
-code: 215058
-name: 加茂郡八百津町
+lname: 岐阜県加茂郡八百津町
+title: 岐阜県加茂郡八百津町版 税金はどこへ行った？
+name: 八百津町
 unit: 町
-year: 2011
+code: 215058
+year: 2012
+jyear: 24
 
 exclude: ['Gemfile*', 'README*', 'Rakefile', 'vendor']
