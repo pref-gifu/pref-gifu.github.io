@@ -5,11 +5,12 @@ lsi: false
 #pygments: true
 
 #auto: true
-title: 羽島市版 税金はどこへ行った？
-
-code: 212091
+lname: 岐阜県羽島市
+title: 岐阜県羽島市版 税金はどこへ行った？
 name: 羽島市
 unit: 市
-year: 2011
+code: 212091
+year: 2012
+jyear: 24
 
 exclude: ['Gemfile*', 'README*', 'Rakefile', 'vendor']
