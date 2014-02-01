@@ -5,11 +5,12 @@ lsi: false
 #pygments: true
 
 #auto: true
-title: 加茂郡坂祝町版 税金はどこへ行った？
-
-code: 215015
-name: 加茂郡坂祝町
+lname: 岐阜県加茂郡坂祝町
+title: 岐阜県加茂郡坂祝町版 税金はどこへ行った？
+name: 坂祝町
 unit: 町
-year: 2011
+code: 215015
+year: 2012
+jyear: 24
 
 exclude: ['Gemfile*', 'README*', 'Rakefile', 'vendor']
