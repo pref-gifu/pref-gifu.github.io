@@ -5,11 +5,12 @@ lsi: false
 #pygments: true
 
 #auto: true
-title: 養老郡養老町版 税金はどこへ行った？
-
-code: 213411
-name: 養老郡養老町
+lname: 岐阜県養老郡養老町
+title: 岐阜県養老郡養老町版 税金はどこへ行った？
+name: 養老町
 unit: 町
-year: 2011
+code: 213411
+year: 2012
+jyear: 24
 
 exclude: ['Gemfile*', 'README*', 'Rakefile', 'vendor']
