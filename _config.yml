@@ -5,11 +5,12 @@ lsi: false
 #pygments: true
 
 #auto: true
-title: 郡上市版 税金はどこへ行った？
-
-code: 212199
-name: 郡上市
+lname: 岐阜県郡上市
+title: 岐阜県郡上市版 税金はどこへ行った？
+name: 上市
 unit: 市
-year: 2011
+code: 212199
+year: 2012
+jyear: 24
 
 exclude: ['Gemfile*', 'README*', 'Rakefile', 'vendor']
