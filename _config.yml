@@ -5,11 +5,12 @@ lsi: false
 #pygments: true
 
 #auto: true
-title: 本巣郡北方町版 税金はどこへ行った？
-
-code: 214213
-name: 本巣郡北方町
+lname: 岐阜県本巣郡北方町
+title: 岐阜県本巣郡北方町版 税金はどこへ行った？
+name: 北方町
 unit: 町
-year: 2011
+code: 214213
+year: 2012
+jyear: 24
 
 exclude: ['Gemfile*', 'README*', 'Rakefile', 'vendor']
