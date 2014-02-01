@@ -5,11 +5,12 @@ lsi: false
 #pygments: true
 
 #auto: true
-title: 大野郡白川村版 税金はどこへ行った？
-
-code: 216046
-name: 大野郡白川村
+lname: 岐阜県大野郡白川村
+title: 岐阜県大野郡白川村版 税金はどこへ行った？
+name: 白川村
 unit: 村
-year: 2011
+code: 216046
+year: 2012
+jyear: 24
 
 exclude: ['Gemfile*', 'README*', 'Rakefile', 'vendor']
