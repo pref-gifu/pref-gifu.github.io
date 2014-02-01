@@ -5,11 +5,12 @@ lsi: false
 #pygments: true
 
 #auto: true
-title: 安八郡安八町版 税金はどこへ行った？
-
-code: 213837
-name: 安八郡安八町
+lname: 岐阜県安八郡安八町
+title: 岐阜県安八郡安八町版 税金はどこへ行った？
+name: 安八町
 unit: 町
-year: 2011
+code: 213837
+year: 2012
+jyear: 24
 
 exclude: ['Gemfile*', 'README*', 'Rakefile', 'vendor']
