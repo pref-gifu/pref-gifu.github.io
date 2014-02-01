@@ -5,11 +5,12 @@ lsi: false
 #pygments: true
 
 #auto: true
-title: 岐阜市版 税金はどこへ行った？
-
-code: 212016
+lname: 岐阜県岐阜市
+title: 岐阜県岐阜市版 税金はどこへ行った？
 name: 岐阜市
 unit: 市
-year: 2011
+code: 212016
+year: 2012
+jyear: 24
 
 exclude: ['Gemfile*', 'README*', 'Rakefile', 'vendor']
