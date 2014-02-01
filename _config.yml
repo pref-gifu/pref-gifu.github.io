@@ -5,11 +5,12 @@ lsi: false
 #pygments: true
 
 #auto: true
-title: 不破郡関ヶ原町版 税金はどこへ行った？
-
-code: 213624
-name: 不破郡関ヶ原町
+lname: 岐阜県不破郡関ヶ原町
+title: 岐阜県不破郡関ヶ原町版 税金はどこへ行った？
+name: 関ヶ原町
 unit: 町
-year: 2011
+code: 213624
+year: 2012
+jyear: 24
 
 exclude: ['Gemfile*', 'README*', 'Rakefile', 'vendor']
