@@ -5,11 +5,12 @@ lsi: false
 #pygments: true
 
 #auto: true
-title: 揖斐郡揖斐川町版 税金はどこへ行った？
-
-code: 214019
-name: 揖斐郡揖斐川町
+lname: 岐阜県揖斐郡揖斐川町
+title: 岐阜県揖斐郡揖斐川町版 税金はどこへ行った？
+name: 揖斐川町
 unit: 町
-year: 2011
+code: 214019
+year: 2012
+jyear: 24
 
 exclude: ['Gemfile*', 'README*', 'Rakefile', 'vendor']
