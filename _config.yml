@@ -5,11 +5,12 @@ lsi: false
 #pygments: true
 
 #auto: true
-title: 各務原市版 税金はどこへ行った？
-
-code: 212130
+lname: 岐阜県各務原市
+title: 岐阜県各務原市版 税金はどこへ行った？
 name: 各務原市
 unit: 市
-year: 2011
+code: 212130
+year: 2012
+jyear: 24
 
 exclude: ['Gemfile*', 'README*', 'Rakefile', 'vendor']
