@@ -1,0 +1,16 @@
+safe: true
+source: .
+destination: ../kasamatsu.gh-pages
+lsi: false
+#pygments: true
+
+#auto: true
+lname: 岐阜県羽島郡笠松町
+title: 岐阜県羽島郡笠松町版 税金はどこへ行った？
+name: 笠松町
+unit: 町
+code: 213039
+year: 2012
+jyear: 24
+
+exclude: ['Gemfile*', 'README*', 'Rakefile', 'vendor']
