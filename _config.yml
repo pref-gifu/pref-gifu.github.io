@@ -1,0 +1,16 @@
+safe: true
+source: .
+destination: ../minokamo.gh-pages
+lsi: false
+#pygments: true
+
+#auto: true
+lname: 岐阜県美濃加茂市
+title: 岐阜県美濃加茂市版 税金はどこへ行った？
+name: 美濃加茂市
+unit: 市
+code: 212113
+year: 2012
+jyear: 24
+
+exclude: ['Gemfile*', 'README*', 'Rakefile', 'vendor']
