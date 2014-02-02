@@ -1,0 +1,16 @@
+safe: true
+source: .
+destination: ../yaotsu.gh-pages
+lsi: false
+#pygments: true
+
+#auto: true
+lname: 岐阜県加茂郡八百津町
+title: 岐阜県加茂郡八百津町版 税金はどこへ行った？
+name: 八百津町
+unit: 町
+code: 215058
+year: 2012
+jyear: 24
+
+exclude: ['Gemfile*', 'README*', 'Rakefile', 'vendor']
