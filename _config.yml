@@ -1,0 +1,16 @@
+safe: true
+source: .
+destination: ../anpachi.gh-pages
+lsi: false
+#pygments: true
+
+#auto: true
+lname: 岐阜県安八郡安八町
+title: 岐阜県安八郡安八町版 税金はどこへ行った？
+name: 安八町
+unit: 町
+code: 213837
+year: 2012
+jyear: 24
+
+exclude: ['Gemfile*', 'README*', 'Rakefile', 'vendor']
