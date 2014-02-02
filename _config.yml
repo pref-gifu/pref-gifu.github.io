@@ -1,0 +1,16 @@
+safe: true
+source: .
+destination: ../tomika.gh-pages
+lsi: false
+#pygments: true
+
+#auto: true
+lname: 岐阜県加茂郡富加町
+title: 岐阜県加茂郡富加町版 税金はどこへ行った？
+name: 富加町
+unit: 町
+code: 215023
+year: 2012
+jyear: 24
+
+exclude: ['Gemfile*', 'README*', 'Rakefile', 'vendor']
