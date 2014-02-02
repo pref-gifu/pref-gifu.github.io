@@ -1,0 +1,16 @@
+safe: true
+source: .
+destination: ../kitagata.gh-pages
+lsi: false
+#pygments: true
+
+#auto: true
+lname: 岐阜県本巣郡北方町
+title: 岐阜県本巣郡北方町版 税金はどこへ行った？
+name: 北方町
+unit: 町
+code: 214213
+year: 2012
+jyear: 24
+
+exclude: ['Gemfile*', 'README*', 'Rakefile', 'vendor']
