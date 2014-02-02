@@ -1,0 +1,16 @@
+safe: true
+source: .
+destination: ../tarui.gh-pages
+lsi: false
+#pygments: true
+
+#auto: true
+lname: 岐阜県不破郡垂井町
+title: 岐阜県不破郡垂井町版 税金はどこへ行った？
+name: 垂井町
+unit: 町
+code: 213616
+year: 2012
+jyear: 24
+
+exclude: ['Gemfile*', 'README*', 'Rakefile', 'vendor']
