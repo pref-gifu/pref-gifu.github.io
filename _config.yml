@@ -1,0 +1,16 @@
+safe: true
+source: .
+destination: ../nakatsugawa.gh-pages
+lsi: false
+#pygments: true
+
+#auto: true
+lname: 岐阜県中津川市
+title: 岐阜県中津川市版 税金はどこへ行った？
+name: 中津川市
+unit: 市
+code: 212067
+year: 2012
+jyear: 24
+
+exclude: ['Gemfile*', 'README*', 'Rakefile', 'vendor']
