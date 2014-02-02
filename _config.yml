@@ -1,0 +1,16 @@
+safe: true
+source: .
+destination: ../seki.gh-pages
+lsi: false
+#pygments: true
+
+#auto: true
+lname: 岐阜県関市
+title: 岐阜県関市版 税金はどこへ行った？
+name: 関市
+unit: 市
+code: 212059
+year: 2012
+jyear: 24
+
+exclude: ['Gemfile*', 'README*', 'Rakefile', 'vendor']
