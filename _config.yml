@@ -1,0 +1,16 @@
+safe: true
+source: .
+destination: ../ginan.gh-pages
+lsi: false
+#pygments: true
+
+#auto: true
+lname: 岐阜県羽島郡岐南町
+title: 岐阜県羽島郡岐南町版 税金はどこへ行った？
+name: 岐南町
+unit: 町
+code: 213021
+year: 2012
+jyear: 24
+
+exclude: ['Gemfile*', 'README*', 'Rakefile', 'vendor']
