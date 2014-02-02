@@ -1,0 +1,16 @@
+safe: true
+source: .
+destination: ../ono.gh-pages
+lsi: false
+#pygments: true
+
+#auto: true
+lname: 岐阜県揖斐郡大野町
+title: 岐阜県揖斐郡大野町版 税金はどこへ行った？
+name: 大野町
+unit: 町
+code: 214035
+year: 2012
+jyear: 24
+
+exclude: ['Gemfile*', 'README*', 'Rakefile', 'vendor']
