@@ -1,0 +1,16 @@
+safe: true
+source: .
+destination: ../mizuho.gh-pages
+lsi: false
+#pygments: true
+
+#auto: true
+lname: 岐阜県瑞穂市
+title: 岐阜県瑞穂市版 税金はどこへ行った？
+name: 瑞穂市
+unit: 市
+code: 212164
+year: 2012
+jyear: 24
+
+exclude: ['Gemfile*', 'README*', 'Rakefile', 'vendor']
