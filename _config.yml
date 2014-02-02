@@ -1,0 +1,16 @@
+safe: true
+source: .
+destination: ../higashishirakawamura.gh-pages
+lsi: false
+#pygments: true
+
+#auto: true
+lname: 岐阜県加茂郡東白川村
+title: 岐阜県加茂郡東白川村版 税金はどこへ行った？
+name: 東白川村
+unit: 村
+code: 215074
+year: 2012
+jyear: 24
+
+exclude: ['Gemfile*', 'README*', 'Rakefile', 'vendor']
