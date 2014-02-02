@@ -17,7 +17,7 @@ OpenSpending.Styles = OpenSpending.Styles || {};
 
 OpenSpending.Styles.Cofog = {
 
-  /* 関ヶ原町 cofog */
+  /* 関ケ原町 cofog */
   // 議会費
   '01': { icon: 'icons/legislative.svg', color: '#C75746', bcolor: '#935B3B' },
   '0100': { icon: 'icons/legislative.svg', color: '#C75746', bcolor: '#935B3B' },
