@@ -1,0 +1,16 @@
+safe: true
+source: .
+destination: ../mitake.gh-pages
+lsi: false
+#pygments: true
+
+#auto: true
+lname: 岐阜県可児郡御嵩町
+title: 岐阜県可児郡御嵩町版 税金はどこへ行った？
+name: 御嵩町
+unit: 町
+code: 215210
+year: 2012
+jyear: 24
+
+exclude: ['Gemfile*', 'README*', 'Rakefile', 'vendor']
