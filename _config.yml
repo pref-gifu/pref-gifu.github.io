@@ -1,0 +1,16 @@
+safe: true
+source: .
+destination: ../tajimi.gh-pages
+lsi: false
+#pygments: true
+
+#auto: true
+lname: 岐阜県多治見市
+title: 岐阜県多治見市版 税金はどこへ行った？
+name: 多治見市
+unit: 市
+code: 212041
+year: 2012
+jyear: 24
+
+exclude: ['Gemfile*', 'README*', 'Rakefile', 'vendor']
