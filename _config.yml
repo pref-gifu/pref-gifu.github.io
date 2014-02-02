@@ -1,0 +1,16 @@
+safe: true
+source: .
+destination: ../toki.gh-pages
+lsi: false
+#pygments: true
+
+#auto: true
+lname: 岐阜県土岐市
+title: 岐阜県土岐市版 税金はどこへ行った？
+name: 土岐市
+unit: 市
+code: 212121
+year: 2012
+jyear: 24
+
+exclude: ['Gemfile*', 'README*', 'Rakefile', 'vendor']
