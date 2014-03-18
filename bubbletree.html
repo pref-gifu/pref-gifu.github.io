@@ -27,6 +27,11 @@ title: 使途別予算額
       $('.bubbletree').append($tooltip);
       $tooltip.hide();
 
+        // 年変更イベント
+        $("#year").change(function(){
+          getAggregator(this.value);
+        });
+        
       var dataLoaded = function(data) {
         window.bubbleTree = new BubbleTree({
           data: data,
@@ -63,9 +68,30 @@ title: 使途別予算額
   }
   });
 
+function getAggregator(year){
+  new OpenSpending.Aggregator({
+        apiUrl: 'http://openspending.org/api',
+        //Use static file instead of api
+        //localApiCache: 'aggregate.json',
+        dataset: OpenSpending.identifier,
+        rootNodeLabel: 'Total',
+        drilldowns: ['Category', 'Subcategory'],
+        cuts: ['year:' + year],
+        breakdown: 'Subcategory',
+        callback: dataLoaded
+  });
+}
+
   </script>
 
   <div class="bubbletree-wrapper">
+    <h2 style="width:240px;display:inline-block;vertical-align:top;">みてみたい年度は？</h2>
+    <select id="year">
+      <option value="2012">平成 24 年度</option>
+      <option value="2002">平成 14 年度</option>
+      <option value="1987">昭和 62 年度</option>
+      <option value="1962">昭和 37 年度</option>
+    </select>
     <div id="bubbletree" class="bubbletree"></div>
   </div>
 </div>
